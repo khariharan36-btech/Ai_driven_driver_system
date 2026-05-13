@@ -1,0 +1,39 @@
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+backend/**/*.pyd
+backend/.env
+backend/*.db
+backend/*.sqlite3
+backend/models/
+backend/data/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env*
+frontend/.DS_Store
+
+# Project-wide
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.h5
+*.pkl
+*.pt
+*.pth
+*.joblib
+*.onnx
+data/
+models/
+.env
+.venv/
+node_modules/
+.DS_Store
+.vscode/
+.idea/
